@@ -1,6 +1,6 @@
 # LappuLang - A Custom Programming Language
 
-**LappuLang** is a custom programming language created as part of a **Compiler Construction (CSC-252)** project for the **4th semester** of the **BSCS** program at **\[University Name]**.
+**LappuLang** is a custom programming language created as part of a **Compiler Construction (CSC-262)** project for the **4th semester** of the **Computer Science** program at **Mehran University of Engineering and Technology**.
 
 ## Project Overview
 
