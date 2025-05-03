@@ -55,6 +55,7 @@ expression:
   | expression GE expression    { $$ = $1 >= $3; }
   | expression LE expression    { $$ = $1 <= $3; }
   | NUMBER                      { $$ = $1; }
+  | ID { $$ = 0; /* Placeholder for variable lookup */ }
   ;
 
 %%
