@@ -2,6 +2,8 @@
 #include "parser.tab.h"
 %}
 
+%option noyywrap
+
 %%
 "bana"          return VAR;
 "agar"          return IF;
